@@ -1,0 +1,10 @@
+artifact_location: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/mlruns/0/models/m-427221068a624854b0f2b3bd83565d88/artifacts
+creation_timestamp: 1753770011164
+experiment_id: '0'
+last_updated_timestamp: 1753770013381
+model_id: m-427221068a624854b0f2b3bd83565d88
+model_type: ''
+name: best_rf_model
+source_run_id: fc926474297c4f7682d023a5a08516d5
+status: 2
+status_message: null

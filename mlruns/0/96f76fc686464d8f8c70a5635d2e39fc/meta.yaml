@@ -1,0 +1,14 @@
+artifact_uri: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/mlruns/0/96f76fc686464d8f8c70a5635d2e39fc/artifacts
+end_time: 1753768351710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96f76fc686464d8f8c70a5635d2e39fc
+run_name: indecisive-stork-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753768273373
+status: 4
+tags: []
+user_id: eman

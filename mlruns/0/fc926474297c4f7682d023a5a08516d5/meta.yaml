@@ -1,0 +1,14 @@
+artifact_uri: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/mlruns/0/fc926474297c4f7682d023a5a08516d5/artifacts
+end_time: 1753770013421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc926474297c4f7682d023a5a08516d5
+run_name: blushing-boar-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753770011066
+status: 3
+tags: []
+user_id: eman
