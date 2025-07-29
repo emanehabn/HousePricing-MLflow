@@ -1,4 +1,4 @@
-artifact_location: ##########################
+artifact_location: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/mlruns/0
 creation_time: 1753768273326
 experiment_id: '0'
 last_update_time: 1753768273326
