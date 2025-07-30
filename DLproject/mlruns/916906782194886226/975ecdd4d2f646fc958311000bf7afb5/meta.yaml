@@ -1,0 +1,14 @@
+artifact_uri: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/DLproject/mlruns/916906782194886226/975ecdd4d2f646fc958311000bf7afb5/artifacts
+end_time: 1753853293061
+entry_point_name: ''
+experiment_id: '916906782194886226'
+lifecycle_stage: active
+run_id: 975ecdd4d2f646fc958311000bf7afb5
+run_name: invincible-ram-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753853271444
+status: 3
+tags: []
+user_id: eman

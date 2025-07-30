@@ -1,0 +1,14 @@
+artifact_uri: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/DLproject/mlruns/916906782194886226/7fd17f7d3d2745b8a0886af6361363cf/artifacts
+end_time: 1753853277220
+entry_point_name: ''
+experiment_id: '916906782194886226'
+lifecycle_stage: active
+run_id: 7fd17f7d3d2745b8a0886af6361363cf
+run_name: languid-calf-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753853271557
+status: 3
+tags: []
+user_id: eman

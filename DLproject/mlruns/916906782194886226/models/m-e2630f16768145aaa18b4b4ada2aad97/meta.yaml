@@ -1,0 +1,10 @@
+artifact_location: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/DLproject/mlruns/916906782194886226/models/m-e2630f16768145aaa18b4b4ada2aad97/artifacts
+creation_timestamp: 1753853277828
+experiment_id: '916906782194886226'
+last_updated_timestamp: 1753853281395
+model_id: m-e2630f16768145aaa18b4b4ada2aad97
+model_type: null
+name: model
+source_run_id: 5a4a1b9f1c2e42efbc9d1d84ce5d34e7
+status: 2
+status_message: null

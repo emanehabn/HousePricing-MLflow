@@ -1,0 +1,28 @@
+artifact_path: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/DLproject/mlruns/916906782194886226/models/m-7d32f939d81c4f2a869f3c8404b3a640/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.12
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.19.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-7d32f939d81c4f2a869f3c8404b3a640
+model_size_bytes: 27121
+model_uuid: m-7d32f939d81c4f2a869f3c8404b3a640
+prompts: null
+run_id: 67ccb31fb2c14404997d5840d4a9d1ca
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 8]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-30 05:28:01.994722'

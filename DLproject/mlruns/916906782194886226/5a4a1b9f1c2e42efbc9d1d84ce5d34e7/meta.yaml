@@ -1,0 +1,14 @@
+artifact_uri: file:///home/eman/Documents/Projects/mlops-krish/HousePricingMLflow/DLproject/mlruns/916906782194886226/5a4a1b9f1c2e42efbc9d1d84ce5d34e7/artifacts
+end_time: 1753853281396
+entry_point_name: ''
+experiment_id: '916906782194886226'
+lifecycle_stage: active
+run_id: 5a4a1b9f1c2e42efbc9d1d84ce5d34e7
+run_name: efficient-shrimp-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753853277236
+status: 3
+tags: []
+user_id: eman
